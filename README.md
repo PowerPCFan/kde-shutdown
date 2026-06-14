@@ -9,4 +9,5 @@
 - `./kde-shutdown` in project dir
 
 ## Issues
-this is an extremely simple script theres not much that could go wrong 😭
+this is an extremely simple program theres not much that could go wrong 😭
+google the issue youre encountering and theres probably a fix
